@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Hi, I'm Foksha Alexandr 👋  
+🚀 *Backend Developer | Open Source Enthusiast*  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
 <!--
 **L4legenda/L4legenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
