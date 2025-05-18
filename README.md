@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  Привет, я [Ваше Имя] 👨‍💻
+  Hey there, I'm Fóksha Alexandr 👨‍💻
 </h1>
 
 <h3 align="center">
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Технологический стек
+### 🛠️ Tech Stack
 
 #### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 GitHub статистика
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l4legenda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -62,7 +62,7 @@
 
 ---
 
-### 🤝 Контакты
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://t.me/foksha">
