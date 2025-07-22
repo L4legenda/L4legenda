@@ -29,6 +29,7 @@
 #### **Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor.js-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 
 #### **AI/Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
